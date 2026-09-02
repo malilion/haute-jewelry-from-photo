@@ -1,0 +1,4 @@
+interface:
+  display_name: "Haute Jewelry From Photo"
+  short_description: "Turn uploaded photos into bespoke haute jewelry"
+  default_prompt: "Use $haute-jewelry-from-photo to transform each uploaded image into a bespoke haute joaillerie design with an exact 50/50 inspiration-and-showcase composition."
