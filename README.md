@@ -11,7 +11,7 @@ A Codex Skill that translates the palette, material cues, forms, lighting, and m
 The source photograph's pearl white, smoky gray, charcoal patterning, translucent highlights, and cool blue iridescence are translated into platinum wave structures, pavé diamonds, black spinels, moonstones, and a central blue opal.
 
 <p align="center">
-  <img src="assets/cuttlefish-haute-jewelry-example.png" alt="Cuttlefish photograph transformed into a deep-sea haute joaillerie statement necklace" width="600">
+  <img src="assets/cuttlefish-haute-jewelry-example.jpg" alt="Cuttlefish photograph transformed into a deep-sea haute joaillerie statement necklace" width="600">
 </p>
 
 The exact top half preserves the source photograph, while the bottom half presents the resulting necklace on a custom crystal-and-stone pedestal.
@@ -21,7 +21,7 @@ The exact top half preserves the source photograph, while the bottom half presen
 The source photograph's olive gold, amber yellow, charcoal black, earthy brown, and rusty red palette is translated into yellow gold, black and cognac diamonds, yellow sapphires, chrysoberyl, smoky quartz, and garnets. Its patterned fins become three articulated fan-shaped tiers without literally reproducing a fish.
 
 <p align="center">
-  <img src="assets/olive-gold-fin-earrings-example.png" alt="Mottled fish photograph transformed into olive-gold haute joaillerie chandelier earrings" width="600">
+  <img src="assets/olive-gold-fin-earrings-example.jpg" alt="Mottled fish photograph transformed into olive-gold haute joaillerie chandelier earrings" width="600">
 </p>
 
 The earrings are presented on a dark bronze stand above polished black-brown stone, with controlled amber reflections and a nocturnal campaign background.
@@ -82,8 +82,8 @@ The full generation behavior and quality checks are defined in [`SKILL.md`](SKIL
 ├── agents/
 │   └── openai.yaml
 ├── assets/
-│   ├── cuttlefish-haute-jewelry-example.png
-│   └── olive-gold-fin-earrings-example.png
+│   ├── cuttlefish-haute-jewelry-example.jpg
+│   └── olive-gold-fin-earrings-example.jpg
 ├── README.md
 └── LICENSE
 ```
