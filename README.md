@@ -6,25 +6,14 @@ A Codex Skill that translates the palette, material cues, forms, lighting, and m
 
 ## Examples
 
-### Deep-Sea Ink Pattern Necklace
+| Deep-Sea Ink Pattern Necklace | Olive-Gold Fin Chandelier Earrings |
+|:---:|:---:|
+| <img src="assets/cuttlefish-haute-jewelry-example.jpg" alt="Cuttlefish photograph transformed into a deep-sea haute joaillerie statement necklace" width="180"> | <img src="assets/olive-gold-fin-earrings-example.jpg" alt="Mottled fish photograph transformed into olive-gold haute joaillerie chandelier earrings" width="180"> |
 
-The source photograph's pearl white, smoky gray, charcoal patterning, translucent highlights, and cool blue iridescence are translated into platinum wave structures, pavé diamonds, black spinels, moonstones, and a central blue opal.
+## Example details
 
-<p align="center">
-  <img src="assets/cuttlefish-haute-jewelry-example.jpg" alt="Cuttlefish photograph transformed into a deep-sea haute joaillerie statement necklace" width="600">
-</p>
-
-The exact top half preserves the source photograph, while the bottom half presents the resulting necklace on a custom crystal-and-stone pedestal.
-
-### Olive-Gold Fin Chandelier Earrings
-
-The source photograph's olive gold, amber yellow, charcoal black, earthy brown, and rusty red palette is translated into yellow gold, black and cognac diamonds, yellow sapphires, chrysoberyl, smoky quartz, and garnets. Its patterned fins become three articulated fan-shaped tiers without literally reproducing a fish.
-
-<p align="center">
-  <img src="assets/olive-gold-fin-earrings-example.jpg" alt="Mottled fish photograph transformed into olive-gold haute joaillerie chandelier earrings" width="600">
-</p>
-
-The earrings are presented on a dark bronze stand above polished black-brown stone, with controlled amber reflections and a nocturnal campaign background.
+- **Deep-Sea Ink Pattern Necklace:** Pearl white, smoky gray, charcoal patterning, translucent highlights, and cool blue iridescence become platinum wave structures, pavé diamonds, black spinels, moonstones, and a central blue opal.
+- **Olive-Gold Fin Chandelier Earrings:** Olive gold, amber yellow, charcoal black, earthy brown, and rusty red become yellow gold, black and cognac diamonds, yellow sapphires, chrysoberyl, smoky quartz, and garnets. Patterned fins become three articulated fan-shaped tiers without literally reproducing a fish.
 
 ## What it does
 
