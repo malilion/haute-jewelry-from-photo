@@ -9,14 +9,15 @@ A Codex Skill that translates the palette, material cues, forms, lighting, and m
 | Deep-Sea Ink Pattern Necklace | Olive-Gold Fin Chandelier Earrings |
 |:---:|:---:|
 | <img src="assets/cuttlefish-haute-jewelry-example.jpg" alt="Cuttlefish photograph transformed into a deep-sea haute joaillerie statement necklace" width="180"> | <img src="assets/olive-gold-fin-earrings-example.jpg" alt="Mottled fish photograph transformed into olive-gold haute joaillerie chandelier earrings" width="180"> |
-| Storm-to-Clear Horizon Brooch |  |
-| <img src="assets/storm-to-clear-horizon-brooch-example.jpg" alt="Rocky seashore photograph transformed into a storm-to-clear haute joaillerie brooch" width="180"> |  |
+| Storm-to-Clear Horizon Brooch | Prismatic Reef Fish-Mask Brooch |
+| <img src="assets/storm-to-clear-horizon-brooch-example.jpg" alt="Rocky seashore photograph transformed into a storm-to-clear haute joaillerie brooch" width="180"> | <img src="assets/prismatic-reef-fish-mask-brooch-example.png" alt="Colorful reef fish photograph transformed into a prismatic haute joaillerie fish-mask brooch" width="180"> |
 
 ## Example details
 
 - **Deep-Sea Ink Pattern Necklace:** Pearl white, smoky gray, charcoal patterning, translucent highlights, and cool blue iridescence become platinum wave structures, pavé diamonds, black spinels, moonstones, and a central blue opal.
 - **Olive-Gold Fin Chandelier Earrings:** Olive gold, amber yellow, charcoal black, earthy brown, and rusty red become yellow gold, black and cognac diamonds, yellow sapphires, chrysoberyl, smoky quartz, and garnets. Patterned fins become three articulated fan-shaped tiers without literally reproducing a fish.
 - **Storm-to-Clear Horizon Brooch:** Storm charcoal, silver-blue water, luminous clouds, clear sky, and rounded beach stones become black diamonds, blue sapphires, aquamarines, opals, moonstones, platinum wave ribbons, and clustered cabochons.
+- **Prismatic Reef Fish-Mask Brooch:** Turquoise water, cobalt blue, violet, pink, and green reef colors become platinum and white-gold plates, teal enamel, Paraiba tourmalines, blue and violet sapphires, tsavorites, pink sapphires, and a pear-cut diamond. Layered scale-like plates and articulated fin rays create a symmetrical, couture brooch without printing or copying the fish image.
 
 ## What it does
 
@@ -76,7 +77,8 @@ The full generation behavior and quality checks are defined in [`SKILL.md`](SKIL
 ├── assets/
 │   ├── cuttlefish-haute-jewelry-example.jpg
 │   ├── olive-gold-fin-earrings-example.jpg
-│   └── storm-to-clear-horizon-brooch-example.jpg
+│   ├── storm-to-clear-horizon-brooch-example.jpg
+│   └── prismatic-reef-fish-mask-brooch-example.png
 ├── README.md
 └── LICENSE
 ```
