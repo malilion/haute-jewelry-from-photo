@@ -4,6 +4,18 @@
 
 A Codex Skill that translates the palette, material cues, forms, lighting, and mood of each uploaded image into an original haute joaillerie design with a bespoke luxury campaign set.
 
+## Example
+
+### Deep-Sea Ink Pattern Necklace
+
+The source photograph's pearl white, smoky gray, charcoal patterning, translucent highlights, and cool blue iridescence are translated into platinum wave structures, pavé diamonds, black spinels, moonstones, and a central blue opal.
+
+<p align="center">
+  <img src="assets/cuttlefish-haute-jewelry-example.png" alt="Cuttlefish photograph transformed into a deep-sea haute joaillerie statement necklace" width="600">
+</p>
+
+The exact top half preserves the source photograph, while the bottom half presents the resulting necklace on a custom crystal-and-stone pedestal.
+
 ## What it does
 
 - Processes every uploaded image independently.
@@ -59,6 +71,8 @@ The full generation behavior and quality checks are defined in [`SKILL.md`](SKIL
 ├── SKILL.md
 ├── agents/
 │   └── openai.yaml
+├── assets/
+│   └── cuttlefish-haute-jewelry-example.png
 ├── README.md
 └── LICENSE
 ```
