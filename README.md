@@ -4,7 +4,7 @@
 
 A Codex Skill that translates the palette, material cues, forms, lighting, and mood of each uploaded image into an original haute joaillerie design with a bespoke luxury campaign set.
 
-## Example
+## Examples
 
 ### Deep-Sea Ink Pattern Necklace
 
@@ -15,6 +15,16 @@ The source photograph's pearl white, smoky gray, charcoal patterning, translucen
 </p>
 
 The exact top half preserves the source photograph, while the bottom half presents the resulting necklace on a custom crystal-and-stone pedestal.
+
+### Olive-Gold Fin Chandelier Earrings
+
+The source photograph's olive gold, amber yellow, charcoal black, earthy brown, and rusty red palette is translated into yellow gold, black and cognac diamonds, yellow sapphires, chrysoberyl, smoky quartz, and garnets. Its patterned fins become three articulated fan-shaped tiers without literally reproducing a fish.
+
+<p align="center">
+  <img src="assets/olive-gold-fin-earrings-example.png" alt="Mottled fish photograph transformed into olive-gold haute joaillerie chandelier earrings" width="600">
+</p>
+
+The earrings are presented on a dark bronze stand above polished black-brown stone, with controlled amber reflections and a nocturnal campaign background.
 
 ## What it does
 
@@ -72,7 +82,8 @@ The full generation behavior and quality checks are defined in [`SKILL.md`](SKIL
 ├── agents/
 │   └── openai.yaml
 ├── assets/
-│   └── cuttlefish-haute-jewelry-example.png
+│   ├── cuttlefish-haute-jewelry-example.png
+│   └── olive-gold-fin-earrings-example.png
 ├── README.md
 └── LICENSE
 ```
