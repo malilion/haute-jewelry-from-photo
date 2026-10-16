@@ -85,4 +85,7 @@ The full generation behavior and quality checks are defined in [`SKILL.md`](SKIL
 
 ## License
 
-Released under the MIT License. See [`LICENSE`](LICENSE).
+- Code (if any): [MIT](LICENSE).
+- Prompts, text and images: [CC BY 4.0](LICENSE-CONTENT), © 2026 Malilion.
+
+授權：程式碼採 MIT；提示詞、文字與圖片採 CC BY 4.0（見 LICENSE-CONTENT）。
